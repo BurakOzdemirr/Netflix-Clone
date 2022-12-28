@@ -1,9 +1,10 @@
 ## Netflix-Clone
-###HTML, CSS ve JS kullanarak Netflix sayfası oluşturulmuştur.
-#####Netflix-Clone projesine ait görseller aşağıdadır.
+### HTML, CSS ve JS kullanılarak Netflix sayfası oluşturulmuştur.
+##### Netflix-Clone projesine ait görseller aşağıdadır.
 
-![görsel1](C:/xampp/htdocs/creative/Netflix-Clone/img/screenshot/1.png)
-![görsel2](http://url/to/img.png)
-![görsel3](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![görsel1](img/screenshot/1.png)
+
+![görsel2](img/screenshot/2.png)
+![görsel3](img/screenshot/3.png)
+![görsel4](img/screenshot/4.png)
+![görsel5](img/screenshot/5.png)
